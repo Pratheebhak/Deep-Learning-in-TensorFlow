@@ -3,21 +3,21 @@ Implementation of Machine Learning and Deep Learning Algorithms from scratch in 
 
 ## Contents
 
-1. [Linear Regression](https://github.com/Pratheebhak/Deep-Learning-in-TensorFlow/blob/main/linear_regression.ipynb)
+1. **[Linear Regression](https://github.com/Pratheebhak/Deep-Learning-in-TensorFlow/blob/main/linear_regression.ipynb)**
     * L2 Loss function
     * L1 Loss function
     * Hybrid Loss function
-2. [Logistic Regression](https://github.com/Pratheebhak/Deep-Learning-in-TensorFlow/blob/main/logistic_regression.ipynb)
+2. **[Logistic Regression](https://github.com/Pratheebhak/Deep-Learning-in-TensorFlow/blob/main/logistic_regression.ipynb)**
     * Adam Optimizer
     * Gradient Descent Optimizer
-3. [Forgetting MLP](https://github.com/Pratheebhak/Deep-Learning-in-TensorFlow/blob/main/forgetting_mlp.ipynb)
+3. **[Forgetting MLP](https://github.com/Pratheebhak/Deep-Learning-in-TensorFlow/blob/main/forgetting_mlp.ipynb)**
     * Measuring catastrophic forgetting in Multi-layer perceptron
     * Catastrophic forgetting is when learning new tasks hurts the performance of the learner at previouslysolved tasks
-4. [Convolutional Neural Network](https://github.com/Pratheebhak/Deep-Learning-in-TensorFlow/blob/main/cnn.ipynb)
+4. **[Convolutional Neural Network](https://github.com/Pratheebhak/Deep-Learning-in-TensorFlow/blob/main/cnn.ipynb)**
     * Batch Normalization
     * Weight Normalization
     * Layer Normaliation
-5. [Recurrent Neural Networks](https://github.com/Pratheebhak/Deep-Learning-in-TensorFlow/blob/main/rnn.ipynb)
+5. **[Recurrent Neural Networks](https://github.com/Pratheebhak/Deep-Learning-in-TensorFlow/blob/main/rnn.ipynb)**
     * Long Short-Term Memory Network (LSTM)
     * Gated Recurrent Unit (GRU)
     * Minimal Gated Unit (MGU)
