@@ -12,7 +12,7 @@ Implementation of Machine Learning and Deep Learning Algorithms from scratch in 
     * Gradient Descent Optimizer
 3. **[Forgetting MLP](https://github.com/Pratheebhak/Deep-Learning-in-TensorFlow/blob/main/forgetting_mlp.ipynb)**
     * Measuring catastrophic forgetting in Multi-layer perceptron
-    * Catastrophic forgetting is when learning new tasks hurts the performance of the learner at previouslysolved tasks
+    * Catastrophic forgetting is when learning new tasks hurts the performance of the learner at previously solved tasks
 4. **[Convolutional Neural Network](https://github.com/Pratheebhak/Deep-Learning-in-TensorFlow/blob/main/cnn.ipynb)**
     * Batch Normalization
     * Weight Normalization
